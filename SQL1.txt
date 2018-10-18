@@ -6,3 +6,7 @@ from
 
 where
 	thing = otherthing
+
+	and
+
+	thing2 = otherthing2
