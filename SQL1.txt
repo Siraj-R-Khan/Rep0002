@@ -5,3 +5,7 @@ from
 
 where
 	thing = otherthing
+
+	and
+
+	thing2 = otherthng2
