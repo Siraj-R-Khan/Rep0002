@@ -8,4 +8,4 @@ where
 
 	and
 
-	thing2 = otherthng2
+	thing2 = otherthing2
