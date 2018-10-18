@@ -1,3 +1,4 @@
+-- We need column1 for business.
 Select
 	column1
 from
