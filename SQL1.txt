@@ -1,0 +1,4 @@
+Select
+	column1
+from
+	table 1
